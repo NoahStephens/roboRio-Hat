@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 0705530003.LibPkg
+
+Section : C:\Users\Noah Stephens\Desktop\robo-rio-io-board\lib\0705530003.lia
+    Section : PCB Library - 0705530003.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 0705530003 On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 193
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 0705530003.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 118
+        EndSection
+
+        Section : Generating SCH Library - 0705530003.SchLib
+        EndSection
+    EndSection
+EndSection

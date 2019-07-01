@@ -1,0 +1,109 @@
+Added Component: Designator=*2(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*4(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*6(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*8(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*10(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*12(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*14(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*16(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*18(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*20(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*21(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*22(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*23(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*24(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*25(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*26(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*27(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*28(3pinmolex)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PWM_0 Pin=*2-1
+Added Pin To Net: NetName=6V Pin=*2-2
+Added Pin To Net: NetName=GND Pin=*2-3
+Added Pin To Net: NetName=PWM_1 Pin=*4-1
+Added Pin To Net: NetName=6V Pin=*4-2
+Added Pin To Net: NetName=GND Pin=*4-3
+Added Pin To Net: NetName=PWM_2 Pin=*6-1
+Added Pin To Net: NetName=6V Pin=*6-2
+Added Pin To Net: NetName=GND Pin=*6-3
+Added Pin To Net: NetName=PWM_3 Pin=*8-1
+Added Pin To Net: NetName=6V Pin=*8-2
+Added Pin To Net: NetName=GND Pin=*8-3
+Added Pin To Net: NetName=PWM_4 Pin=*10-1
+Added Pin To Net: NetName=6V Pin=*10-2
+Added Pin To Net: NetName=GND Pin=*10-3
+Added Pin To Net: NetName=PWM_5 Pin=*12-1
+Added Pin To Net: NetName=6V Pin=*12-2
+Added Pin To Net: NetName=GND Pin=*12-3
+Added Pin To Net: NetName=PWM_6 Pin=*14-1
+Added Pin To Net: NetName=6V Pin=*14-2
+Added Pin To Net: NetName=GND Pin=*14-3
+Added Pin To Net: NetName=PWM_7 Pin=*16-1
+Added Pin To Net: NetName=6V Pin=*16-2
+Added Pin To Net: NetName=GND Pin=*16-3
+Added Pin To Net: NetName=PWM_8 Pin=*18-1
+Added Pin To Net: NetName=6V Pin=*18-2
+Added Pin To Net: NetName=GND Pin=*18-3
+Added Pin To Net: NetName=PWM_9 Pin=*20-1
+Added Pin To Net: NetName=6V Pin=*20-2
+Added Pin To Net: NetName=GND Pin=*20-3
+Added Pin To Net: NetName=GND Pin=*21-1
+Added Pin To Net: NetName=REV_0 Pin=*21-2
+Added Pin To Net: NetName=FWD_0 Pin=*21-3
+Added Pin To Net: NetName=GND Pin=*22-1
+Added Pin To Net: NetName=REV_1 Pin=*22-2
+Added Pin To Net: NetName=FWD_1 Pin=*22-3
+Added Pin To Net: NetName=GND Pin=*23-1
+Added Pin To Net: NetName=REV_2 Pin=*23-2
+Added Pin To Net: NetName=FWD_2 Pin=*23-3
+Added Pin To Net: NetName=GND Pin=*24-1
+Added Pin To Net: NetName=REV_3 Pin=*24-2
+Added Pin To Net: NetName=FWD_3 Pin=*24-3
+Added Pin To Net: NetName=GND Pin=*25-1
+Added Pin To Net: NetName=VCC Pin=*25-2
+Added Pin To Net: NetName=A_0 Pin=*25-3
+Added Pin To Net: NetName=GND Pin=*26-1
+Added Pin To Net: NetName=VCC Pin=*26-2
+Added Pin To Net: NetName=A_1 Pin=*26-3
+Added Pin To Net: NetName=GND Pin=*27-1
+Added Pin To Net: NetName=VCC Pin=*27-2
+Added Pin To Net: NetName=A_2 Pin=*27-3
+Added Pin To Net: NetName=GND Pin=*28-1
+Added Pin To Net: NetName=VCC Pin=*28-2
+Added Pin To Net: NetName=A_3 Pin=*28-3
+Added Member To Class: ClassName=main Member=Component *2 Component_1
+Added Member To Class: ClassName=main Member=Component *4 Component_1
+Added Member To Class: ClassName=main Member=Component *6 Component_1
+Added Member To Class: ClassName=main Member=Component *8 Component_1
+Added Member To Class: ClassName=main Member=Component *10 Component_1
+Added Member To Class: ClassName=main Member=Component *12 Component_1
+Added Member To Class: ClassName=main Member=Component *14 Component_1
+Added Member To Class: ClassName=main Member=Component *16 Component_1
+Added Member To Class: ClassName=main Member=Component *18 Component_1
+Added Member To Class: ClassName=main Member=Component *20 Component_1
+Added Member To Class: ClassName=main Member=Component *21 Component_1
+Added Member To Class: ClassName=main Member=Component *22 Component_1
+Added Member To Class: ClassName=main Member=Component *23 Component_1
+Added Member To Class: ClassName=main Member=Component *24 Component_1
+Added Member To Class: ClassName=main Member=Component *25 Component_1
+Added Member To Class: ClassName=main Member=Component *26 Component_1
+Added Member To Class: ClassName=main Member=Component *27 Component_1
+Added Member To Class: ClassName=main Member=Component *28 Component_1
+Added Room: Name=main

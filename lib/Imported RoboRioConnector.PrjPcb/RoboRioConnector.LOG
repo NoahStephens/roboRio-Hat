@@ -1,0 +1,20 @@
+Importer Log Report
+Project : RoboRioConnector.PrjPcb
+
+Section : Analyze Document - C:\Users\Noah Stephens\Downloads\roborioExpansion-master\roborioExpansion-master\lbr\CustomLibraries\RoboRioConnector.lbr
+    Analyzing data of C:\Users\Noah Stephens\Downloads\roborioExpansion-master\roborioExpansion-master\lbr\CustomLibraries\RoboRioConnector.lbr
+    Load settings
+    Load layers 46
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Import Document - C:\Users\Noah Stephens\Downloads\roborioExpansion-master\roborioExpansion-master\lbr\CustomLibraries\RoboRioConnector.lbr
+    ERROR: Exception raised! Access violation at address 00000001974ACED2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001974ACED2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001974ACED2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+    ERROR: Exception raised! Access violation at address 00000001974ACED2 in module 'Importer_EAGLE.IWZ'. Read of address 0000000000000010
+EndSection
